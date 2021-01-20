@@ -1,0 +1,21 @@
+state={
+	id=808
+	name="STATE_808"
+	provinces={
+		694 3679 3692 6542 6712 6934 11640 13126 
+	}
+	history = {
+		owner = WGR
+		add_core_of = WGR
+		add_core_of = GER
+	}
+	buildings = {
+		infrastructure = 2
+		arms_factory = 1
+		industrial_complex = 1
+	
+	}
+	manpower=100000
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+}

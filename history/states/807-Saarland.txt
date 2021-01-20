@@ -1,0 +1,24 @@
+state={
+	id=807
+	name="STATE_807"
+	provinces={
+		9575 11531 
+	}
+	history = {
+		owner = WGR
+		add_core_of = WGR
+		add_core_of = DDR
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 1
+		}
+		
+		victory_points = {
+			11531 5 
+		}
+	}
+	manpower=100000
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+}

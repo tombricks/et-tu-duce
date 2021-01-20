@@ -1,0 +1,67 @@
+bookmarks = {
+	bookmark = {
+		name = "A New Dawn"
+		desc = "A New Dawn"
+		date = 1953.1.1.12
+		picture = "GFX_select_date_1939"
+		default_country = "SOV"
+	
+		CHI = {
+			history = CHI_A_New_Dawn
+			ideology = neutrality
+			ideas = {}
+			focuses = {}
+		}
+	
+		USA = {
+			history = USA_A_New_Dawn
+			ideology = democratic
+			ideas = {}
+			focuses = {}
+		}
+	
+		ENG = {
+			history = ENG_A_New_Dawn
+			ideology = democratic
+			ideas = {}
+			focuses = {}
+		}
+	
+		FRA = {
+			history = FRA_A_New_Dawn
+			ideology = democratic
+			ideas = {}
+			focuses = {}
+		}
+	
+		ITA = {
+			history = ITA_A_New_Dawn
+			ideology = fascism
+			ideas = {}
+			focuses = {}
+		}
+	
+		GER = {
+			history = GER_A_New_Dawn
+			ideology = communism
+			ideas = {}
+			focuses = {}
+		}
+	
+		SOV = {
+			history = SOV_A_New_Dawn
+			ideology = communism
+			ideas = {}
+			focuses = {}
+		}
+
+		"---"={
+			history = "OTHER_BLITZKRIEG_DESC"
+		}
+
+		effect = {
+			randomize_weather = 12345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}
