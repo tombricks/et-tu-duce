@@ -41,8 +41,8 @@ bookmarks = {
 			focuses = {}
 		}
 	
-		GER = {
-			history = GER_A_New_Dawn
+		DDR = {
+			history = DDR_A_New_Dawn
 			ideology = communism
 			ideas = {}
 			focuses = {}

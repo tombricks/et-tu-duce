@@ -24,14 +24,17 @@ LUX = {
 	color = rgb { 65 175 179 }
 	color_ui = rgb { 85 228 233 }
 }
-BEL = { color 	 = rgb { 193 171 8  }
-		color_ui = rgb { 251 222 10 }
-	  }
-HOL = {	color = rgb { 203 138 74 }
-		color_ui = rgb { 255 179 96 }
+BEL = {
+	color 	 = rgb { 193 171 8  }
+	color_ui = rgb { 251 222 10 }
 }
-CZE = {	color = rgb { 54 167 156 }
-		color_ui = rgb { 70 217 203 }
+HOL = {
+	color = rgb { 203 138 74 }
+	color_ui = rgb { 255 179 96 }
+}
+CZE = {	
+	color = rgb { 186 147 54 }
+	color_ui = rgb { 196 157 64 }
 }
 POL = {
 	color = rgb { 197 92 106 }
@@ -460,8 +463,8 @@ WGR = {
     color_ui = rgb { 10 61 163 }
 }
 DDR = {
-    color = rgb { 120 150 80 }
-    color_ui = rgb { 150 180 120 }
+    color = rgb { 128 74 74 }
+    color_ui = rgb { 138 84 84 }
 }
 KOR = {
 	color = rgb { 255  240  195 }
